@@ -1,0 +1,34 @@
+<!-- IMAGEN PROVISORIA: ilustración de un consultorio.
+     Reemplazala por una foto real del local (por ejemplo foto-consultorio.jpg)
+     y cambiá el nombre en el archivo index.html. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-label="Ilustración de un consultorio médico">
+  <!-- Pared y piso -->
+  <rect width="600" height="450" fill="#EEF7FD"/>
+  <rect y="340" width="600" height="110" fill="#D7ECF9"/>
+  <!-- Ventana -->
+  <rect x="60" y="60" width="170" height="150" rx="12" fill="#FFFFFF" stroke="#65B9E8" stroke-width="6"/>
+  <line x1="145" y1="60" x2="145" y2="210" stroke="#65B9E8" stroke-width="5"/>
+  <line x1="60" y1="135" x2="230" y2="135" stroke="#65B9E8" stroke-width="5"/>
+  <circle cx="190" cy="100" r="18" fill="#FFE7A3"/>
+  <!-- Cuadro con cruz -->
+  <rect x="300" y="70" width="110" height="110" rx="14" fill="#FFFFFF" stroke="#D7ECF9" stroke-width="4"/>
+  <rect x="343" y="90" width="24" height="70" rx="12" fill="#65B9E8"/>
+  <rect x="320" y="113" width="70" height="24" rx="12" fill="#174A70"/>
+  <!-- Escritorio -->
+  <rect x="250" y="250" width="290" height="22" rx="8" fill="#174A70"/>
+  <rect x="270" y="272" width="16" height="90" fill="#174A70"/>
+  <rect x="505" y="272" width="16" height="90" fill="#174A70"/>
+  <!-- Monitor y estetoscopio -->
+  <rect x="420" y="190" width="90" height="58" rx="6" fill="#FFFFFF" stroke="#174A70" stroke-width="5"/>
+  <rect x="457" y="248" width="16" height="4" fill="#174A70"/>
+  <path d="M300 250 q0 -40 25 -40 q25 0 25 40" fill="none" stroke="#65B9E8" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="350" cy="244" r="8" fill="#65B9E8"/>
+  <!-- Camilla -->
+  <rect x="40" y="290" width="180" height="24" rx="10" fill="#FFFFFF" stroke="#65B9E8" stroke-width="5"/>
+  <rect x="55" y="314" width="12" height="50" fill="#65B9E8"/>
+  <rect x="193" y="314" width="12" height="50" fill="#65B9E8"/>
+  <!-- Planta -->
+  <rect x="555" y="300" width="34" height="44" rx="6" fill="#174A70"/>
+  <ellipse cx="562" cy="282" rx="12" ry="26" fill="#7CC9A0"/>
+  <ellipse cx="582" cy="278" rx="12" ry="30" fill="#5DB585"/>
+</svg>
